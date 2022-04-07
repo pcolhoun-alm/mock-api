@@ -1,14 +1,129 @@
+[
+  {
+  "username" : "pmcolhoun",
+  "firstname" : "Peter",
+  "lastname": "Colhoun",
+  "customers" : "Almac"
+}, 
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "username" : "aagraham",
+  "firstname" : "Adam",
+  "lastname" : "Graham",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "mmcafferty",
+  "firstname" : "Matthew",
+  "lastname" : "McCafferty",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "rcollins",
+  "firstname" : "Ryan",
+  "lastname" : "Collins",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "cmcguinness",
+  "firstname" : "Cillian",
+  "lastname" : "McGuinness",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "clees",
+  "firstname" : "Conor",
+  "lastname" : "Lees",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "marmstrong",
+  "firstname" : "Michael",
+  "lastname" : "Armstrong",
+  "customers" : "Almac"
+},
+{
+  "username" : "pmcolhoun",
+  "firstname" : "Peter",
+  "lastname": "Colhoun",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "aagraham",
+  "firstname" : "Adam",
+  "lastname" : "Graham",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "mmcafferty",
+  "firstname" : "Matthew",
+  "lastname" : "McCafferty",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "rcollins",
+  "firstname" : "Ryan",
+  "lastname" : "Collins",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "cmcguinness",
+  "firstname" : "Cillian",
+  "lastname" : "McGuinness",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "clees",
+  "firstname" : "Conor",
+  "lastname" : "Lees",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "marmstrong",
+  "firstname" : "Michael",
+  "lastname" : "Armstrong",
+  "customers" : "Almac"
+},
+{
+  "username" : "pmcolhoun",
+  "firstname" : "Peter",
+  "lastname": "Colhoun",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "aagraham",
+  "firstname" : "Adam",
+  "lastname" : "Graham",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "mmcafferty",
+  "firstname" : "Matthew",
+  "lastname" : "McCafferty",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "rcollins",
+  "firstname" : "Ryan",
+  "lastname" : "Collins",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "cmcguinness",
+  "firstname" : "Cillian",
+  "lastname" : "McGuinness",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "clees",
+  "firstname" : "Conor",
+  "lastname" : "Lees",
+  "customers" : "Almac"
+}, 
+{
+  "username" : "marmstrong",
+  "firstname" : "Michael",
+  "lastname" : "Armstrong",
+  "customers" : "Almac"
 }
+]
+
