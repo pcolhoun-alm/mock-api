@@ -1,132 +1,24 @@
 
 {
    "users": [
-    {
-      "username" : "pmcolhoun",
-      "firstname" : "Peter",
-      "lastname": "Colhoun",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "aagraham",
-      "firstname" : "Adam",
-      "lastname" : "Graham",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "mmcafferty",
-      "firstname" : "Matthew",
-      "lastname" : "McCafferty",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "rcollins",
-      "firstname" : "Ryan",
-      "lastname" : "Collins",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "cmcguinness",
-      "firstname" : "Cillian",
-      "lastname" : "McGuinness",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "clees",
-      "firstname" : "Conor",
-      "lastname" : "Lees",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "marmstrong",
-      "firstname" : "Michael",
-      "lastname" : "Armstrong",
-      "customers" : "Almac"
-    },
-    {
-      "username" : "pmcolhoun",
-      "firstname" : "Peter",
-      "lastname": "Colhoun",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "aagraham",
-      "firstname" : "Adam",
-      "lastname" : "Graham",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "mmcafferty",
-      "firstname" : "Matthew",
-      "lastname" : "McCafferty",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "rcollins",
-      "firstname" : "Ryan",
-      "lastname" : "Collins",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "cmcguinness",
-      "firstname" : "Cillian",
-      "lastname" : "McGuinness",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "clees",
-      "firstname" : "Conor",
-      "lastname" : "Lees",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "marmstrong",
-      "firstname" : "Michael",
-      "lastname" : "Armstrong",
-      "customers" : "Almac"
-    },
-    {
-      "username" : "pmcolhoun",
-      "firstname" : "Peter",
-      "lastname": "Colhoun",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "aagraham",
-      "firstname" : "Adam",
-      "lastname" : "Graham",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "mmcafferty",
-      "firstname" : "Matthew",
-      "lastname" : "McCafferty",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "rcollins",
-      "firstname" : "Ryan",
-      "lastname" : "Collins",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "cmcguinness",
-      "firstname" : "Cillian",
-      "lastname" : "McGuinness",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "clees",
-      "firstname" : "Conor",
-      "lastname" : "Lees",
-      "customers" : "Almac"
-    }, 
-    {
-      "username" : "marmstrong",
-      "firstname" : "Michael",
-      "lastname" : "Armstrong",
-      "customers" : "Almac"
-    }
+      {
+        "username" : "pmcolhoun",
+        "firstname" : "Peter",
+        "lastname": "Colhoun",
+        "customers" : "Almac"
+      }, 
+      {
+        "username" : "aagraham",
+        "firstname" : "Adam",
+        "lastname" : "Graham",
+        "customers" : "Almac"
+      }, 
+      {
+        "username" : "mmcafferty",
+        "firstname" : "Matthew",
+        "lastname" : "McCafferty",
+        "customers" : "Almac"
+      }
     ]
 }
 
