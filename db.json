@@ -91,6 +91,16 @@
         "lastname" : "McCafferty",
         "customers" : "Almac"
       }
+    ],
+    "loginusers" : [
+      {
+        "username" : "pmcolhoun",
+        "password" : "password1"
+      },
+      {
+        "username" : "aagraham",
+        "password" : "password1"
+      }
     ]
 }
 
