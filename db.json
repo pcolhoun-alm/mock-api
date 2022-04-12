@@ -47,7 +47,7 @@
         "username" : "aagraham",
         "firstname" : "Adam",
         "lastname" : "Graham",
-        "customers" : "Almac"
+        "customers" : ["Almac", "Moderna"]
       }, 
       {
         "username" : "mmcafferty",
