@@ -7,6 +7,90 @@
         "firstname" : "Peter",
         "lastname": "Colhoun",
         "customers" : "Almac"
+      }, 
+      {
+        "username" : "aagraham",
+        "firstname" : "Adam",
+        "lastname" : "Graham",
+        "customers" : "Almac"
+      }, 
+      {
+        "username" : "mmcafferty",
+        "firstname" : "Matthew",
+        "lastname" : "McCafferty",
+        "customers" : "Almac"
+      },
+      {
+        "username" : "pmcolhoun",
+        "firstname" : "Peter",
+        "lastname": "Colhoun",
+        "customers" : "Almac"
+      }, 
+      {
+        "username" : "aagraham",
+        "firstname" : "Adam",
+        "lastname" : "Graham",
+        "customers" : "Almac"
+      }, 
+      {
+        "username" : "mmcafferty",
+        "firstname" : "Matthew",
+        "lastname" : "McCafferty",
+        "customers" : "Almac"
+      },
+      {
+        "username" : "pmcolhoun",
+        "firstname" : "Peter",
+        "lastname": "Colhoun",
+        "customers" : "Almac"
+      }, 
+      {
+        "username" : "aagraham",
+        "firstname" : "Adam",
+        "lastname" : "Graham",
+        "customers" : ["Almac", "Moderna"]
+      }, 
+      {
+        "username" : "mmcafferty",
+        "firstname" : "Matthew",
+        "lastname" : "McCafferty",
+        "customers" : "Almac"
+      },
+      {
+        "username" : "pmcolhoun",
+        "firstname" : "Peter",
+        "lastname": "Colhoun",
+        "customers" : "Almac"
+      }, 
+      {
+        "username" : "aagraham",
+        "firstname" : "Adam",
+        "lastname" : "Graham",
+        "customers" : "Almac"
+      }, 
+      {
+        "username" : "mmcafferty",
+        "firstname" : "Matthew",
+        "lastname" : "McCafferty",
+        "customers" : "Almac"
+      },
+      {
+        "username" : "pmcolhoun",
+        "firstname" : "Peter",
+        "lastname": "Colhoun",
+        "customers" : "Almac"
+      }, 
+      {
+        "username" : "aagraham",
+        "firstname" : "Adam",
+        "lastname" : "Graham",
+        "customers" : "Almac"
+      }, 
+      {
+        "username" : "mmcafferty",
+        "firstname" : "Matthew",
+        "lastname" : "McCafferty",
+        "customers" : "Almac"
       }
     ],
     "loginusers" : [
